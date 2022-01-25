@@ -1,0 +1,213 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux App should render with given state from Redux store 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <div>
+      <h4>
+        Take a look at our products!
+      </h4>
+      <div
+        className="row"
+      >
+        <div
+          className="col-md-3 mt-3"
+          id="47314fa1-ae56-4eae-80be-af6691145951"
+        >
+          <div
+            className="card"
+          >
+            <div
+              className="card-body"
+            >
+              <h2
+                className="card-title text-center"
+              >
+                tv
+              </h2>
+            </div>
+            <div>
+              <button
+                className="btn btn-success"
+                onClick={[Function]}
+              >
+                Add to Cart
+              </button>
+              <button
+                className="btn btn-danger"
+                onClick={[Function]}
+              >
+                Remove from Cart
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-3"
+          id="3fdd689a-02cc-4ae7-903b-f6d2776ff3b9"
+        >
+          <div
+            className="card"
+          >
+            <div
+              className="card-body"
+            >
+              <h2
+                className="card-title text-center"
+              >
+                microwave
+              </h2>
+            </div>
+            <div>
+              <button
+                className="btn btn-success"
+                onClick={[Function]}
+              >
+                Add to Cart
+              </button>
+              <button
+                className="btn btn-danger"
+                onClick={[Function]}
+              >
+                Remove from Cart
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-3"
+          id="b04b779c-1cfb-48a7-8424-25a8c7e608ae"
+        >
+          <div
+            className="card"
+          >
+            <div
+              className="card-body"
+            >
+              <h2
+                className="card-title text-center"
+              >
+                toaster oven
+              </h2>
+            </div>
+            <div>
+              <button
+                className="btn btn-success"
+                onClick={[Function]}
+              >
+                Add to Cart
+              </button>
+              <button
+                className="btn btn-danger"
+                onClick={[Function]}
+              >
+                Remove from Cart
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-3"
+          id="4260bf52-218a-480e-87ea-4ff42470ce98"
+        >
+          <div
+            className="card"
+          >
+            <div
+              className="card-body"
+            >
+              <h2
+                className="card-title text-center"
+              >
+                chair
+              </h2>
+            </div>
+            <div>
+              <button
+                className="btn btn-success"
+                onClick={[Function]}
+              >
+                Add to Cart
+              </button>
+              <button
+                className="btn btn-danger"
+                onClick={[Function]}
+              >
+                Remove from Cart
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-3"
+          id="6a56c22f-2a85-4751-98a9-14e280fcecd8"
+        >
+          <div
+            className="card"
+          >
+            <div
+              className="card-body"
+            >
+              <h2
+                className="card-title text-center"
+              >
+                mirror
+              </h2>
+            </div>
+            <div>
+              <button
+                className="btn btn-success"
+                onClick={[Function]}
+              >
+                Add to Cart
+              </button>
+              <button
+                className="btn btn-danger"
+                onClick={[Function]}
+              >
+                Remove from Cart
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col-md-3 mt-3"
+          id="2266b2d6-3d71-4356-8065-392f1fceab07"
+        >
+          <div
+            className="card"
+          >
+            <div
+              className="card-body"
+            >
+              <h2
+                className="card-title text-center"
+              >
+                phone
+              </h2>
+            </div>
+            <div>
+              <button
+                className="btn btn-success"
+                onClick={[Function]}
+              >
+                Add to Cart
+              </button>
+              <button
+                className="btn btn-danger"
+                onClick={[Function]}
+              >
+                Remove from Cart
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+`;
